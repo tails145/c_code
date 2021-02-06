@@ -1,0 +1,8 @@
+﻿  game.c
+C:\c-code\game1\game1\game.c(9,21): warning C4028: 形参 1 与声明不同
+  test.c
+C:\c-code\game1\game1\test.c(23,17): warning C4133: “函数”: 从“char [3][3]”到“int (*)[3]”的类型不兼容
+C:\c-code\game1\game1\test.c(65,7): warning C4013: “srand”未定义；假设外部返回 int
+C:\c-code\game1\game1\test.c(65,26): warning C4013: “time”未定义；假设外部返回 int
+  正在生成代码...
+  game1.vcxproj -> C:\c-code\game1\Debug\game1.exe
